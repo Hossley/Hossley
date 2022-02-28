@@ -11,5 +11,5 @@
 - 📫 How to reach me ...
       Hossley@protonmail.com
 - 🧭 How I ended up here...
-      Line Cook -> Culinary School -> Chef/GM -> MBA -> Amazon Intern -> Procurement Analyst -> Coding Enthusiast/Self Learner
+      Line Cook -> Culinary School -> Chef/GM -> MBA -> Amazon Intern -> Procurement Analyst -> Aspiring Coder
  
